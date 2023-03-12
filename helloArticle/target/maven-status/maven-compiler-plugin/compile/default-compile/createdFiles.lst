@@ -1,0 +1,15 @@
+Models\Article.class
+DAO\articleInterface.class
+Services\UsersImp.class
+DAO\articleImplemants.class
+Services\FilterTest.class
+Services\TraitmantServlet.class
+Services\UsersInterface.class
+DAO\UsersInterface.class
+DAO\test.class
+DAO\UsersImplement.class
+DAO\Connextion.class
+Services\articleInterface.class
+Models\Users.class
+Services\LoginServlet.class
+Services\articleImp.class
